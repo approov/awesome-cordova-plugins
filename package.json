@@ -59,7 +59,7 @@
     "lodash": "4.17.21",
     "minimist": "1.2.6",
     "prettier": "2.7.1",
-    "rimraf": "3.0.2",
+    "rimraf": "^3.0.2",
     "rollup": "2.75.7",
     "rxjs": "6.6.7",
     "terser-webpack-plugin": "5.3.3",
